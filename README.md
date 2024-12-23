@@ -1,1 +1,2 @@
 # CS300
+This course was about being able to sort information from csv files. In order to do this, we had to use vectors, data structures, Hash tables, binary search trees, and other concepts. Data structures were particularly important to hold data for specific objects in an easily accessible manner together. The biggest roadblock was time. This course has helped me understand how to use objects better and use them in functional ways. Keeping objects and functions encapsulated makes them more adaptable.
